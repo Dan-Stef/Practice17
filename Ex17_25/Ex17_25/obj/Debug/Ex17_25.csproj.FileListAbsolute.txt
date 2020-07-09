@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\bin\Debug\Ex17_25.exe.config
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\bin\Debug\Ex17_25.exe
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\bin\Debug\Ex17_25.pdb
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\obj\Debug\Ex17_25.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\obj\Debug\Ex17_25.Form1.resources
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\obj\Debug\Ex17_25.Properties.Resources.resources
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\obj\Debug\Ex17_25.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\obj\Debug\Ex17_25.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\obj\Debug\Ex17_25.exe
+C:\Users\Danil\source\repos\Exercise_17\Ex17_25\Ex17_25\obj\Debug\Ex17_25.pdb

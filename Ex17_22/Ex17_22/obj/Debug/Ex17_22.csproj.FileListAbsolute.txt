@@ -1,0 +1,9 @@
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\bin\Debug\Ex17_22.exe.config
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\bin\Debug\Ex17_22.exe
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\bin\Debug\Ex17_22.pdb
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\obj\Debug\Ex17_22.Form1.resources
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\obj\Debug\Ex17_22.Properties.Resources.resources
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\obj\Debug\Ex17_22.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\obj\Debug\Ex17_22.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\obj\Debug\Ex17_22.exe
+C:\Users\Danil\source\repos\Exercise_17\Ex17_22\Ex17_22\obj\Debug\Ex17_22.pdb
