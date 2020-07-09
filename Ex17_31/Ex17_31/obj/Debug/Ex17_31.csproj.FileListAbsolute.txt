@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\bin\Debug\Ex17_31.exe.config
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\bin\Debug\Ex17_31.exe
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\bin\Debug\Ex17_31.pdb
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\obj\Debug\Ex17_31.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\obj\Debug\Ex17_31.Form1.resources
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\obj\Debug\Ex17_31.Properties.Resources.resources
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\obj\Debug\Ex17_31.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\obj\Debug\Ex17_31.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\obj\Debug\Ex17_31.exe
+C:\Users\Danil\source\repos\Ex17_31\Ex17_31\obj\Debug\Ex17_31.pdb

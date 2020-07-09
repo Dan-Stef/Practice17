@@ -1,0 +1,9 @@
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\bin\Debug\Ex17_27.exe.config
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\bin\Debug\Ex17_27.exe
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\bin\Debug\Ex17_27.pdb
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\obj\Debug\Ex17_27.Form1.resources
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\obj\Debug\Ex17_27.Properties.Resources.resources
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\obj\Debug\Ex17_27.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\obj\Debug\Ex17_27.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\obj\Debug\Ex17_27.exe
+C:\Users\Danil\source\repos\Exercise_17\Ex17_27\Ex17_27\obj\Debug\Ex17_27.pdb
